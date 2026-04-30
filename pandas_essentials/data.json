@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Ali",
+    "Salary": 1500,
+    "Sex" : "Male"
+
+  },
+  {
+    "Name" : "Mert",
+    "Salary": 2000,
+    "Sex" : "Male"
+  }
+]
+
+
